@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='The Most Important Improvement 😄'/>
+        <page name='Multiple Variadic Parameters'/>
+        <page name='Result Builders'/>
+        <page name='Extended Implicit Member Syntax'/>
+        <page name='Functions Supports Same Names'/>
+    </pages>
+</playground>
