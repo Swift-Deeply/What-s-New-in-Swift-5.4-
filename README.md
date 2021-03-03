@@ -1,5 +1,5 @@
 # What's New in Swift 5.4?
-This repo explains how to configure Firebase in SwiftUI's new app lifecycle:
+Multiple variadic parameters, extended implicit member syntax, result builders, and more:
 
 * The Most Important Improvement 😄
 * Multiple Variadic Parameters
