@@ -11,4 +11,4 @@ You can find the article of this repo [here](https://medium.com/better-programmi
 
 This repo includes the playground designed similar to the article.
 
-If you have problems or questions, you can tweet me [@canbalkya](https://twitter.com/canbalkya) or email <canbalkya@gmail.com>.
+If you have problems or questions, you can email me at <contact.canbalkaya@gmail.com>.
